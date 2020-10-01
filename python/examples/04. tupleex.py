@@ -1,6 +1,7 @@
 """
 Tuple is a collection which is ordered and UNCHANGEABLE. Allows duplicate members.
 Tuples are written in round brackets ()
+We can access the members of a tuple through indexing and tuple elements are immutable.
 """
 mtup = ("apple","banana","mango","banana","orange")  #alter mtup=tuple(("apple","banana",....))  #here the tuple() is a constructor to create tuples
 print(mtup)
